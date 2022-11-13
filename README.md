@@ -16,6 +16,9 @@ O objetivo do projeto é identificar diferentes estágios de maturação da bana
 * Bibliotecas | Plataformas: TensorFlow e Keras
 * IDE: VScode (Jupyter Notebook)
 
-## Resultados e Considerações Finais
+## Preparação da Base de Dados
+#
 
+## Resultados e Considerações Finais
+#
 
