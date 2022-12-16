@@ -9,8 +9,8 @@ O objetivo do projeto é identificar diferentes estágios de maturação da bana
 * Orientadora: Mariana Matulovic da Silva Rodrigueiro
 
 ## Informações Gerais
-* Nome do Projeto: 'Classificação de Fases de Maturação de Bananas Utilizando Técnicas de Visão Computacional e Deep Learning'
-* Área de Concentração: Aprendizado de Máquina (Machine Learning).
+* Nome do Projeto: 'TÉCNICAS DE DEEP LEARNING: UM ESTUDO DE VISÃO COMPUTACIONAL PARA CLASSIFICAÇÃO DE FASES DE MATURAÇÃO DE BANANA'
+* Área de Concentração: Engenharia de Biossistemas
 * Linha de Pesquisa: Sistemas formais e de monitoramento aplicados à computação inteligente.
 * Linguagens Usadas: Python
 * Bibliotecas | Plataformas: TensorFlow e Keras
